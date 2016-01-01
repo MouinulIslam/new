@@ -1,5 +1,4 @@
 newfileisadded
 another line added form origin
 line added by user
-
-same by user
+starting a conflict by origin
