@@ -1,3 +1,7 @@
 new line added
 as
+<<<<<<< HEAD
 aaaaaa  a a
+=======
+aaaaaa  a   b
+>>>>>>> 0daa51616ca9b711341ebe22beab16029fed003f
