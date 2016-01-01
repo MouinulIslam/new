@@ -1,2 +1,3 @@
 newfileisadded
 another line added form origin
+line added by user
